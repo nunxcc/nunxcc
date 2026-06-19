@@ -1,12 +1,12 @@
 # Hey, I'm Nuno 👋
- 
+
 **Front-End Developer based in Portugal**  
 Building clean, responsive web apps with React and TypeScript.
- 
+
 ---
- 
-### 🛠 Tech Stack
- 
+
+### 🛠️ Tech Stack
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -15,23 +15,26 @@ Building clean, responsive web apps with React and TypeScript.
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
- 
+
 ---
- 
+
 ### 🚀 Projects
- 
+
 | Project | Description | Stack | Live |
-|---|---|---|---|
-| [MyFilmList](https://github.com/nunxcc/MyFilmList) | Movie discovery app powered by the TMDB API | React, TypeScript | [→ Demo](https://my-film-list-delta.vercel.app) |
-| [FinalFantasyQuest](https://github.com/nunxcc/FinalFantasyQuest) | Final Fantasy PC gaming guide with filtering and completion tracking | HTML, CSS | — |
- 
+| :--- | :--- | :--- | :---: |
+| **[ProjectSoul](https://github.com/nunxcc/project-soul)** | AI-powered TTRPG engine with a reactive inventory, custom status UI, and IndexedDB local saves | React, TypeScript, Gemini | [-> Demo](https://project-soul-nunxcc.vercel.app) |
+| **[MyFilmList](https://github.com/nunxcc/MyFilmList)** | Movie discovery app powered by the TMDB API | React, TypeScript | [-> Demo](https://myfilmlist-nunxcc.vercel.app) |
+| **[FinalFantasyQuest](https://github.com/nunxcc/FinalFantasyQuest)** | Final Fantasy PC gaming guide with filtering and completion tracking | HTML, CSS | — |
+
+*Note: Replace the placeholder Vercel demo link above for Project Soul with your actual live link once you import the repo to Vercel!*
+
 ---
- 
-### 📫 Connect
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nuno-antunes-b20372261/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nunitunix@gmail.com)
- 
+
+### ✉️ Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nunituniy@gmail.com)
+
 ---
- 
+
 *Open to junior roles and internships in Front-End Development.*
