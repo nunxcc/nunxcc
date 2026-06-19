@@ -26,8 +26,6 @@ Building clean, responsive web apps with React and TypeScript.
 | **[MyFilmList](https://github.com/nunxcc/MyFilmList)** | Movie discovery app powered by the TMDB API | React, TypeScript | [-> Demo](https://myfilmlist-nunxcc.vercel.app) |
 | **[FinalFantasyQuest](https://github.com/nunxcc/FinalFantasyQuest)** | Final Fantasy PC gaming guide with filtering and completion tracking | HTML, CSS | — |
 
-*Note: Replace the placeholder Vercel demo link above for Project Soul with your actual live link once you import the repo to Vercel!*
-
 ---
 
 ### ✉️ Connect
