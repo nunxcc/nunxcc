@@ -21,10 +21,10 @@ Building clean, responsive web apps with React and TypeScript.
 ### 🚀 Projects
 
 | Project | Description | Stack | Live |
-| :--- | :--- | :--- | :---: |project
+| :--- | :--- | :--- | :---: |
 | **[ProjectSoul](https://github.com/nunxcc/project-soul)** | AI-powered TTRPG engine with a reactive inventory, custom status UI, and IndexedDB local saves | React, TypeScript, Gemini | [-> Demo](https://project-soul-pearl.vercel.app/) |
 | **[MyFilmList](https://github.com/nunxcc/MyFilmList)** | Movie discovery app powered by the TMDB API | React, TypeScript | [-> Demo](https://myfilmlist-app.vercel.app/) |
-| **[FinalFantasyQuest](https://github.com/nunxcc/FinalFantasyQuest)** | Final Fantasy PC gaming guide with filtering and completion tracking | HTML, CSS | — |
+| **[FinalFantasyQuest](https://github.com/nunxcc/FinalFantasyQuest)** | Final Fantasy PC gaming guide with filtering and completion tracking | HTML, CSS | N/A |
 
 ---
 
