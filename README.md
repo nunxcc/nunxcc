@@ -12,9 +12,14 @@ Building clean, responsive web apps with React and TypeScript.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS Modules](https://img.shields.io/badge/CSS%20Modules-000000?style=for-the-badge&logo=cssmodules&logoColor=white)
+![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Currently learning:** ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
 
@@ -22,6 +27,7 @@ Building clean, responsive web apps with React and TypeScript.
 
 | Project | Description | Stack | Live |
 | :--- | :--- | :--- | :---: |
+| **[Roster](https://github.com/nunxcc/roster)** | Local-first character codex for worlds and campaigns, with factions, parties, photo galleries and JSON backups. Installable as an offline desktop app | React, TypeScript, IndexedDB (Dexie), Motion, PWA | N/A |
 | **[Mesa](https://github.com/nunxcc/mesa-dashboard)** | Restaurant operations dashboard with menu-engineering analysis, delivery-commission breakdown, and hand-written SVG charts | React, TypeScript, CSS Modules | [-> Demo](https://mesa-dashboard-lovat.vercel.app/) |
 | **[ProjectSoul](https://github.com/nunxcc/project-soul)** | AI-powered TTRPG engine with a reactive inventory, custom status UI, and IndexedDB local saves | React, TypeScript, Gemini | [-> Demo](https://project-soul-pearl.vercel.app/) |
 | **[MyFilmList](https://github.com/nunxcc/MyFilmList)** | Movie discovery app powered by the TMDB API | React, TypeScript | [-> Demo](https://myfilmlist-app.vercel.app/) |
